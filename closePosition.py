@@ -3,11 +3,11 @@ from binance.enums import SIDE_SELL, SIDE_BUY
 
 # Replace with your API keys
 # ifa02
-#api_key = "EjW6ffGL3d1YpqTxE3kFJmC9R4V1aqcb5qbgABAuafmJyDlpnhqO0T6kbKalYt5l"
-#secret_key = "ApOWyI2tLlBDKB0dBNsdCQGjdr0ELIavCs7zKBOi7B5qcMRqam05DvDdbbEmAern"
+#api_key = ""
+#secret_key = ""
 # bnc04
-api_key = "9kOfExmlycEJdvuWq1D5MZrJSoC5jcVnq5oq0A8O7oBkyYwuKyjMre9KSOLfRoQ6"
-secret_key = "l3CIWGcr4YOAcdP8Cx3u0B5JNTiG0vmINcaP9zi9qSFrOzrPHRvpadb4ljaopRe0"
+api_key = ""
+secret_key = ""
 
 # Initialize the Binance client
 client = Client(api_key, secret_key)
